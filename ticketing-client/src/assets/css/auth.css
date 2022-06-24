@@ -1,0 +1,15 @@
+.auth {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .auth {
+    margin-top: -50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .auth {
+    margin-top: -100px;
+  }
+}
